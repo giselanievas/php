@@ -1,0 +1,20 @@
+<?php
+include 'includes/cabecera.php';
+?>
+<div>
+    <hr>
+
+    <h2>Esta es la pagina de incio</h2>
+    <p>Texto de prueba de la pagina de Contacto</p>
+    </hr>
+
+</div>
+
+
+<?php
+include 'includes/footer.php';
+?>
+
+
+
+
